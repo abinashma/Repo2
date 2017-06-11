@@ -1,0 +1,10 @@
+ Volume in drive F is Abinash
+ Volume Serial Number is 12ED-FD43
+
+ Directory of F:\java prog\My Project
+
+10-Jun-17  11:01 PM    <DIR>          .
+10-Jun-17  11:01 PM    <DIR>          ..
+10-Jun-17  11:01 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   7,694,307,328 bytes free
